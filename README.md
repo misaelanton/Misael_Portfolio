@@ -6,6 +6,9 @@ In this project I tried to clean data and analyze.
 
 [Data Analyst Project #2](https://github.com/misaelanton/Misael_Portfolio/blob/main/Helmholtz%20Analysis.ipynb)
 
+
+[Exploratory Data Analysis and Machine Learning Prediction using Random Forest and Linear Regression in binary Classification](https://github.com/misaelanton/Misael_Portfolio/blob/main/Bank%20Data%20Challenge-%20Misael%20Antonio%20Jara%20Gonzalez.ipynb)
+
 Hello Everyone, 
 Throughout this profile you'd see some of my personal/academic projects in which I have worked on. 
 I'm constantly working to improve my data analytic skills and visuals so any feedback is highly appriciated. 
