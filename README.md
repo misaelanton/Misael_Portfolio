@@ -1,4 +1,4 @@
-# Misael_Portfolio
+# Misael Portfolio
 
 [Data Analyst Project #1](https://github.com/misaelanton/Misael_Portfolio/blob/main/Annual%20Car%20Sales%20at%20Mexico%202021.ipynb)
 In this project I tried to clean and analyze data using python major libraries (Pandas and numpy). Data was obtained from the biggest institute of data in Mexico (INEGI) that corresponds to the number of cars sold and exported from Mexico. The goal was to obtain a bigger picture of how the pandemic affected the flows on the sales in the country.  
