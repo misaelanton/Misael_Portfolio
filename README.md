@@ -16,5 +16,7 @@ I'm constantly working to improve my data analytic skills and visuals so any fee
 
 I hope you guys enjoy,
 
+Edit: 
+
 Misael Jara
-April 2023
+October 2023
